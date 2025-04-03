@@ -23,9 +23,12 @@ Developed by **Lalit Kumar**.
 
 Below is a short video demonstrating the app’s functionality:
 
-![Task Manager Demo](assets/videos/task_manager_demo.mp4)
+![Task Manager Demo]()
 
-*(Note: Replace the placeholder path `assets/videos/task_manager_demo.mp4` with the actual path to your video file once uploaded to your repository.)*
+
+https://github.com/user-attachments/assets/da6ff83d-d60a-4270-98d6-e5a41305514f
+
+
 
 ---
 
