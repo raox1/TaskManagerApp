@@ -129,12 +129,7 @@ dev_dependencies:
    flutter pub run build_runner build
    ```
 
-4. **Generate App Icons** (if you’ve updated `app_icon.png`):
-   ```bash
-   flutter pub run flutter_launcher_icons
-   ```
-
-5. **Run the App**:
+4. **Run the App**:
    ```bash
    flutter run
    ```
